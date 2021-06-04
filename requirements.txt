@@ -1,0 +1,5 @@
+# This file may be used to create an environment using:
+# platform: win-32
+flask-restplus=0.13.0
+pymongo=3.11.4
+requests=2.25.1
